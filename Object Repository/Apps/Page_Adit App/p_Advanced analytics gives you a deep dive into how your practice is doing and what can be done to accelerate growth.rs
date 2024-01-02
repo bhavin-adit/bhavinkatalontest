@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Advanced analytics gives you a deep dive into how your practice is doing and what can be done to accelerate growth</name>
+   <tag></tag>
+   <elementGuidId>a85b5c82-daba-4169-862a-85100f9aa093</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[12]/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>336fde05-20f9-47ff-8ab3-ed4f17fa9873</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>locationdescbox</value>
+      <webElementGuid>6c9fe74c-6fad-495b-9050-a828359b9b75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Advanced analytics gives you a deep dive into how your practice is doing and what can be done to accelerate growth.</value>
+      <webElementGuid>c935f2d9-d17e-4a34-957a-f5ce95f5f14d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-application-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mainappsection appboxes ng-star-inserted&quot;]/div[@class=&quot;appitem ng-star-inserted&quot;]/div[@class=&quot;appshedulebox border p-24 br-4&quot;]/div[@class=&quot;appschedulerow&quot;]/div[@class=&quot;appscheduledesc&quot;]/p[@class=&quot;locationdescbox&quot;]</value>
+      <webElementGuid>6330f29e-4eb2-4d32-bd2f-ccb73396dffe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[12]/div/div/div[2]/p</value>
+      <webElementGuid>e3e97817-f7f7-482a-9e3f-db349cc7847a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/following::p[1]</value>
+      <webElementGuid>a8e9d64a-f3ea-4c2c-875b-f228d842f485</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[11]/following::p[1]</value>
+      <webElementGuid>b1f975fc-3e99-4b56-89fa-e52729d10a95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Users'])[12]/preceding::p[1]</value>
+      <webElementGuid>ab09e099-c6a4-47c4-a0f0-0f57bb07f976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[12]/preceding::p[1]</value>
+      <webElementGuid>5838e834-fdcf-4e27-8e45-538b891a9546</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Advanced analytics gives you a deep dive into how your practice is doing and what can be done to accelerate growth.']/parent::*</value>
+      <webElementGuid>175bfb43-9b2d-4fec-bcd8-ebe91d7ae697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div/div/div[2]/p</value>
+      <webElementGuid>4e78cad2-c325-447a-a4dd-3981d57d9f37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Advanced analytics gives you a deep dive into how your practice is doing and what can be done to accelerate growth.' or . = 'Advanced analytics gives you a deep dive into how your practice is doing and what can be done to accelerate growth.')]</value>
+      <webElementGuid>563eebe9-bde1-411a-a664-c4736b019fd5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

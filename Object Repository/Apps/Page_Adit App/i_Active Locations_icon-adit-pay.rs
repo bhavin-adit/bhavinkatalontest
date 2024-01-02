@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Active Locations_icon-adit-pay</name>
+   <tag></tag>
+   <elementGuidId>aa7ef41f-e07e-4563-9cae-97f3f9bb140c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon-adit-pay</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[7]/div/div/div/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1286636b-bd37-445c-8b03-ccfb68fa495c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-adit-pay</value>
+      <webElementGuid>5136d617-dc40-430d-a69d-bcbfad32752a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-application-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mainappsection appboxes ng-star-inserted&quot;]/div[@class=&quot;appitem ng-star-inserted&quot;]/div[@class=&quot;appshedulebox border p-24 br-4&quot;]/div[@class=&quot;appschedulerow&quot;]/div[@class=&quot;appscheduleicon br-4&quot;]/i[@class=&quot;icon-adit-pay&quot;]</value>
+      <webElementGuid>b1f3cf8c-a313-4374-b62e-a0a4fed7fdfd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[7]/div/div/div/i</value>
+      <webElementGuid>3db8ef14-9e0f-4882-8e86-199234a0662e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/i</value>
+      <webElementGuid>63bbf92c-b7d0-4f49-ae64-600bd2e55aa8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

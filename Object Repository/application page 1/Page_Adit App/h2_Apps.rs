@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Apps</name>
+   <tag></tag>
+   <elementGuidId>e40bab4c-6d52-400e-ba5b-d58682138078</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>app-application-list.ng-star-inserted > h2.pl-24.mb-8.respl0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>f03be039-b4e2-4807-9b9c-ef7d9225b4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pl-24 mb-8 respl0</value>
+      <webElementGuid>f3f5ab3a-a0c5-4539-bf14-85ee78379b19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apps</value>
+      <webElementGuid>b943361f-65f6-4e90-b557-a447020507eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-application-list[@class=&quot;ng-star-inserted&quot;]/h2[@class=&quot;pl-24 mb-8 respl0&quot;]</value>
+      <webElementGuid>fbef2e1d-b7b8-4729-92c3-38629763d6df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/h2</value>
+      <webElementGuid>d7077599-31d3-4f09-803f-e22d9a339364</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice Analytics'])[1]/preceding::h2[1]</value>
+      <webElementGuid>fa8dbc70-1510-4136-a76b-0a0b9a224f9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Users'])[1]/preceding::h2[1]</value>
+      <webElementGuid>1d598940-65c9-4352-9b0e-d32dd31f72fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apps']/parent::*</value>
+      <webElementGuid>a1b39ba1-dcaf-4905-b87d-cca76154999a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-application-list/h2</value>
+      <webElementGuid>bd576831-cddd-40ce-888c-7c7600f149a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Apps' or . = 'Apps')]</value>
+      <webElementGuid>10bdaedb-5fac-4928-acf5-9d1069e12a11</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

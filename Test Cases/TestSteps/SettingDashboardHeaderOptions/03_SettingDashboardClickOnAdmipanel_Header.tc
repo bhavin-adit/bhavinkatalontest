@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Clicking from Setting Dashboard Admipanel_Header</description>
+   <name>03_SettingDashboardClickOnAdmipanel_Header</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0040c79d-b27d-4030-87e3-3e426810f264</testCaseGuid>
+</TestCaseEntity>

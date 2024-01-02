@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Digitize your patient forms and allow patients to conveniently fill out their forms online</name>
+   <tag></tag>
+   <elementGuidId>034d90c0-8265-423c-baef-e81974640c0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[4]/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>f27666ec-a93b-4469-9136-7af5b313243b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>locationdescbox</value>
+      <webElementGuid>4739fabe-74c8-44bd-bfb2-e8dcf95e647e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Digitize your patient forms and allow patients to conveniently fill out their forms online.</value>
+      <webElementGuid>3b539498-82ab-4109-9518-b61ac06a3503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-application-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mainappsection appboxes ng-star-inserted&quot;]/div[@class=&quot;appitem ng-star-inserted&quot;]/div[@class=&quot;appshedulebox border p-24 br-4&quot;]/div[@class=&quot;appschedulerow&quot;]/div[@class=&quot;appscheduledesc&quot;]/p[@class=&quot;locationdescbox&quot;]</value>
+      <webElementGuid>af91fcfb-6679-413a-9a53-a3652fe085eb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[4]/div/div/div[2]/p</value>
+      <webElementGuid>549a7d7a-47e9-4c6e-8f4e-48e3d02f3d9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patient Forms'])[1]/following::p[1]</value>
+      <webElementGuid>cc533e5b-ab17-478a-9ccf-76ac66608703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[3]/following::p[1]</value>
+      <webElementGuid>134c5959-ec87-4a46-a208-31f6b4c238ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Users'])[4]/preceding::p[1]</value>
+      <webElementGuid>1d3a405c-89a8-4cd9-8a4f-77c7fe09aaf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[4]/preceding::p[1]</value>
+      <webElementGuid>d121cc2b-3547-4de7-a023-0f1c96662ab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Digitize your patient forms and allow patients to conveniently fill out their forms online.']/parent::*</value>
+      <webElementGuid>65505414-1dd3-487a-b883-098c20f09c7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/p</value>
+      <webElementGuid>e0989e9f-b865-4707-a087-47f3daaf8477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Digitize your patient forms and allow patients to conveniently fill out their forms online.' or . = 'Digitize your patient forms and allow patients to conveniently fill out their forms online.')]</value>
+      <webElementGuid>6127ecc6-4e23-4f31-8d81-20bd8cfe570d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

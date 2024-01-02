@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Generates a single invoice for the entire organization with any number of locations. Also, only one payment method is allowed for the entire organization</name>
+   <tag></tag>
+   <elementGuidId>ee02f9ad-886b-4c20-99c6-22cefa832630</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.mb-20</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-billing-overview/div[2]/div/div/div/form/div/mat-radio-group/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>da3753b1-997d-41fb-a9ce-13eb3c4e0eba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-20</value>
+      <webElementGuid>b1b5cc50-7b8b-4c45-a177-f992fd7717e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Generates a single invoice for the entire organization with any number of locations. Also, only one payment method is allowed for the entire organization.</value>
+      <webElementGuid>e2b17798-e70c-4b93-b34b-fbe5a32146e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-billing-overview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width p-24 br-4 customheightbox&quot;]/div[@class=&quot;billingoverviewcontent&quot;]/div[@class=&quot;billingbox&quot;]/div[@class=&quot;billinglist&quot;]/form[@class=&quot;ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;ordernewcompany&quot;]/mat-radio-group[@class=&quot;mat-radio-group vertical-radio-group ng-untouched ng-pristine ng-valid&quot;]/p[@class=&quot;mb-20&quot;]</value>
+      <webElementGuid>be196230-8067-4051-bebc-e60ff3702047</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-billing-overview/div[2]/div/div/div/form/div/mat-radio-group/p</value>
+      <webElementGuid>60ad58bc-fdf4-41e4-b05d-8541bf51da32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing Preference'])[1]/following::p[1]</value>
+      <webElementGuid>23fa6fa1-88d9-43aa-999e-ce854f348dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test org1'])[1]/preceding::p[2]</value>
+      <webElementGuid>17d69bfa-c27c-4aa8-9d0d-eee1ff1df200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Generates a single invoice for the entire organization with any number of locations. Also, only one payment method is allowed for the entire organization.']/parent::*</value>
+      <webElementGuid>b4d79533-a80a-466b-9a20-b05feefbbdc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>7eee07d0-dfcc-467e-8dfd-78eef7fb1cb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Generates a single invoice for the entire organization with any number of locations. Also, only one payment method is allowed for the entire organization.' or . = 'Generates a single invoice for the entire organization with any number of locations. Also, only one payment method is allowed for the entire organization.')]</value>
+      <webElementGuid>7861db3d-578a-4419-8a2f-15e7f7594aff</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

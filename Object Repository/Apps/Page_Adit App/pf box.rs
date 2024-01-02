@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>pf box</name>
+   <tag></tag>
+   <elementGuidId>d1d6d447-1f57-4bb9-8ec8-d3c7d96d3819</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e831d998-13cc-4359-92a5-24d47cd41a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>appshedulebox border p-24 br-4</value>
+      <webElementGuid>eb5c4131-f6bb-4cc8-a544-95f01634bd38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Patient FormsDigitize your patient forms and allow patients to conveniently fill out their forms online.account_circleActive Users23location_onActive Locations10 </value>
+      <webElementGuid>c4c2e430-1687-4690-9432-a26e63b1a86f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-application-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mainappsection appboxes ng-star-inserted&quot;]/div[@class=&quot;appitem ng-star-inserted&quot;]/div[@class=&quot;appshedulebox border p-24 br-4&quot;]</value>
+      <webElementGuid>46ee99d5-e0c7-4682-b68b-fac037a44980</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[4]/div</value>
+      <webElementGuid>cd85a7ee-bc04-4365-ad17-a938dc8ce692</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[3]/following::div[5]</value>
+      <webElementGuid>c7a5472c-4962-40b5-8d9e-c9726c309157</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Users'])[3]/following::div[9]</value>
+      <webElementGuid>318fd536-da10-4928-b6d3-1b948b1c8d13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div</value>
+      <webElementGuid>0b6a8d8d-6653-4369-a388-b310ee1d8814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Patient FormsDigitize your patient forms and allow patients to conveniently fill out their forms online.account_circleActive Users23location_onActive Locations10 ' or . = 'Patient FormsDigitize your patient forms and allow patients to conveniently fill out their forms online.account_circleActive Users23location_onActive Locations10 ')]</value>
+      <webElementGuid>d0cf112f-d860-4bf9-b408-52bdb67124b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

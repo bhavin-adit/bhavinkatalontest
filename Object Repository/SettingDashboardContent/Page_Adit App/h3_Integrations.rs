@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Integrations</name>
+   <tag></tag>
+   <elementGuidId>95e837f0-cb1c-42f4-a15e-4a3083e1d9b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.splashmenucol.splashmenucol3.ng-star-inserted > div.splashmenuheadbox > h3</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/div/div[2]/div[3]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ea6e0611-f234-43a9-ab71-9dfa1b3dd3ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Integrations</value>
+      <webElementGuid>63923300-5f6e-44a6-ac66-b47d660f15cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;splashsectionbox ng-star-inserted&quot;]/div[@class=&quot;splashscreenrow&quot;]/div[@class=&quot;splashmenubox clearfix&quot;]/div[@class=&quot;splashmenucol splashmenucol3 ng-star-inserted&quot;]/div[@class=&quot;splashmenuheadbox&quot;]/h3[1]</value>
+      <webElementGuid>0de1a35f-c9c3-4b47-b774-16d0642f896a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/div/div[2]/div[3]/div/h3</value>
+      <webElementGuid>b71969bb-a679-4efd-ac20-15e72faf61b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Recording'])[1]/following::h3[1]</value>
+      <webElementGuid>ebbc4a2d-7de5-4dd4-ad61-bd31d8f90309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Audio Library'])[1]/following::h3[1]</value>
+      <webElementGuid>6581fea8-fac1-41fb-8fbf-d4fabbf58f8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dynamic Number Placement'])[1]/preceding::h3[1]</value>
+      <webElementGuid>e1fa5f3e-7655-4ed0-930b-a53fda00415f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Google Ads'])[1]/preceding::h3[1]</value>
+      <webElementGuid>eb801d45-aa33-48f1-8f90-48b623af4af8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/h3</value>
+      <webElementGuid>587c51aa-0639-4ca1-bd9a-e14297356753</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Integrations' or . = 'Integrations')]</value>
+      <webElementGuid>303b2379-2786-4fa5-b643-c04147da4fa3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

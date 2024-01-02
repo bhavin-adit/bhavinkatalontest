@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Allows your patients to book appointments directly from your website into your Patient Management Software</name>
+   <tag></tag>
+   <elementGuidId>0ea18b1c-6c52-4e21-908b-d8e7c45879ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[5]/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6f9ba5a3-d46c-49a8-943a-c54aeaa0e141</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>locationdescbox</value>
+      <webElementGuid>045fb2f3-dd42-423c-a35c-41ed8cb54182</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Allows your patients to book appointments directly from your website into your Patient Management Software.</value>
+      <webElementGuid>b9fab1d8-3d0c-4142-9544-8a1d12c1992a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-application-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mainappsection appboxes ng-star-inserted&quot;]/div[@class=&quot;appitem ng-star-inserted&quot;]/div[@class=&quot;appshedulebox border p-24 br-4&quot;]/div[@class=&quot;appschedulerow&quot;]/div[@class=&quot;appscheduledesc&quot;]/p[@class=&quot;locationdescbox&quot;]</value>
+      <webElementGuid>b98eb342-5dda-4624-9016-b518eb1ffdb7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[5]/div/div/div[2]/p</value>
+      <webElementGuid>0ee81462-a6eb-4244-9015-ac6053f86e89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online Scheduling'])[1]/following::p[1]</value>
+      <webElementGuid>fa90261a-490f-4c77-8c78-d5a146480213</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[4]/following::p[1]</value>
+      <webElementGuid>f396d56c-15e6-472a-895d-3c1e5c3efa4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Users'])[5]/preceding::p[1]</value>
+      <webElementGuid>58ce931b-b421-4e04-9618-874afc234083</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[5]/preceding::p[1]</value>
+      <webElementGuid>0b6c93e0-5f09-4d12-b5e2-cd54fc26ca15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Allows your patients to book appointments directly from your website into your Patient Management Software.']/parent::*</value>
+      <webElementGuid>c2ae2bf7-1770-410a-9a87-e39441b4c9e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/p</value>
+      <webElementGuid>3f93001c-198a-44a5-9baf-430136e20712</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Allows your patients to book appointments directly from your website into your Patient Management Software.' or . = 'Allows your patients to book appointments directly from your website into your Patient Management Software.')]</value>
+      <webElementGuid>70b3f578-d63d-47af-b364-d211bc4c98a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

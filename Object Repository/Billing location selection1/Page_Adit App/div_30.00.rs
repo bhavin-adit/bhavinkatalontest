@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_30.00</name>
+   <tag></tag>
+   <elementGuidId>aed1c600-be75-4286-b7e3-d6364c1ecd86</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.mat-cell.cdk-cell.cdk-column-cost.mat-column-cost.ng-star-inserted > div.billinglist-blod</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-billing-location-detail/div[2]/div/table/tbody/tr/td[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ba4e498-d700-4cb9-a1bc-3dce83f89d22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>billinglist-blod</value>
+      <webElementGuid>5ebf0bb0-c0c9-4f19-938e-e8967f2cde09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>$30.00 </value>
+      <webElementGuid>cb9ced55-4c3f-4fb4-925f-59dabffeccd3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-billing-location-detail[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width p-24 br-4 customheightbox ng-star-inserted&quot;]/div[@class=&quot;billingoverviewcontent&quot;]/table[@class=&quot;mat-table cdk-table&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell cdk-column-cost mat-column-cost ng-star-inserted&quot;]/div[@class=&quot;billinglist-blod&quot;]</value>
+      <webElementGuid>36e7036b-d67e-4014-ae49-e27f6df76a3d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-billing-location-detail/div[2]/div/table/tbody/tr/td[3]/div</value>
+      <webElementGuid>af4e3d91-591b-4b4d-8055-5366ff13b1d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Service Fee'])[1]/following::div[1]</value>
+      <webElementGuid>37c76cb3-464e-452a-828f-7fe6058ae9d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Call Tracking'])[1]/following::div[2]</value>
+      <webElementGuid>aa2d27b7-c7a7-4c72-abe8-28712cc954f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numbers Usage'])[1]/preceding::div[1]</value>
+      <webElementGuid>d1475a91-4530-4657-88b9-b64c522304a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total Numbers (1/5) - 0 Additional Numbers'])[1]/preceding::div[2]</value>
+      <webElementGuid>2ba323f6-006f-4d79-9392-e6e9d94105d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='$30.00']/parent::*</value>
+      <webElementGuid>c0b8f848-e3d1-44a3-921d-a9617ea057d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div</value>
+      <webElementGuid>7ad0796d-b256-436f-9184-acd7a9946493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '$30.00 ' or . = '$30.00 ')]</value>
+      <webElementGuid>2c6e9d5b-cbcb-4d0f-9a3c-703e1e370a31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

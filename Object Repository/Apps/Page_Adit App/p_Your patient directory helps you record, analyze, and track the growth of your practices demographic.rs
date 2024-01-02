@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Your patient directory helps you record, analyze, and track the growth of your practices demographic</name>
+   <tag></tag>
+   <elementGuidId>a3539e74-2733-44c8-8178-f703dacbb926</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[9]/div/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>6772ffcb-9f98-4732-9ea0-80fe42d68b36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>locationdescbox</value>
+      <webElementGuid>eca36ebd-6984-4eb5-9fcf-2bc339c65c1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Your patient directory helps you record, analyze, and track the growth of your practice's demographic.</value>
+      <webElementGuid>f17d377d-cd6b-4409-a692-1415e0297488</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-application-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;mainappsection appboxes ng-star-inserted&quot;]/div[@class=&quot;appitem ng-star-inserted&quot;]/div[@class=&quot;appshedulebox border p-24 br-4&quot;]/div[@class=&quot;appschedulerow&quot;]/div[@class=&quot;appscheduledesc&quot;]/p[@class=&quot;locationdescbox&quot;]</value>
+      <webElementGuid>c5c642f2-ee94-4ae9-b272-ba1678aed920</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-application-list/div/div[9]/div/div/div[2]/p</value>
+      <webElementGuid>cf37e907-2ba2-44fc-abb3-f16f3b38e90a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patients'])[1]/following::p[1]</value>
+      <webElementGuid>7a9fdcc5-4a9f-4d09-bc37-9e16af7494fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[8]/following::p[1]</value>
+      <webElementGuid>61ffaaeb-1ff6-4f04-9e06-faf810c7517a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Users'])[9]/preceding::p[1]</value>
+      <webElementGuid>dc2f9126-dd17-4e84-b8b7-e6bdde604e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Locations'])[9]/preceding::p[1]</value>
+      <webElementGuid>eb5cd1a2-9031-42c2-b288-3f66f49ec670</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div/div/div[2]/p</value>
+      <webElementGuid>7bc8f31e-ebaf-4485-95da-ccd352f06825</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = concat(&quot;Your patient directory helps you record, analyze, and track the growth of your practice&quot; , &quot;'&quot; , &quot;s demographic.&quot;) or . = concat(&quot;Your patient directory helps you record, analyze, and track the growth of your practice&quot; , &quot;'&quot; , &quot;s demographic.&quot;))]</value>
+      <webElementGuid>23089063-f9bc-45d2-acf1-21e113d9fd94</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Locations1 Sep Test25 aug25 augLive signupLocation_fgLocationNumTestTelynxLocationtestlocation4TextLocV2V2-no landline</name>
+   <tag></tag>
+   <elementGuidId>6155ffdf-7803-4401-90be-0c7d973d124b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5207e498-1017-49e3-9a07-43f62e6a31d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>splashmenubox clearfix</value>
+      <webElementGuid>d1dbc79b-6353-4d99-bc05-51af38b35fd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Locations1 Sep Test25 aug25 augLive signupLocation_fgLocationNumTestTelynxLocationtestlocation4TextLocV2V2-no landline</value>
+      <webElementGuid>98e4350e-6a31-4709-a227-83f0e3e2caf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;splashsectionbox ng-star-inserted&quot;]/div[@class=&quot;splashscreenrow&quot;]/div[@class=&quot;splashmenubox clearfix&quot;]</value>
+      <webElementGuid>0003fee7-f43e-499b-b1b8-8a6be320eac1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/div/div[3]</value>
+      <webElementGuid>fd9873e8-d6d0-449d-8f0c-2e070b14fe26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Access'])[1]/following::div[1]</value>
+      <webElementGuid>3bc484fb-7f7b-483e-88e5-9822fc61e549</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[1]</value>
+      <webElementGuid>4052db42-b66d-4ab3-a8ff-d3909992a8ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div[3]</value>
+      <webElementGuid>d24c3a49-803d-4ebc-9d7a-7e8b8e23c7e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Locations1 Sep Test25 aug25 augLive signupLocation_fgLocationNumTestTelynxLocationtestlocation4TextLocV2V2-no landline' or . = 'Locations1 Sep Test25 aug25 augLive signupLocation_fgLocationNumTestTelynxLocationtestlocation4TextLocV2V2-no landline')]</value>
+      <webElementGuid>d60de9a8-0c9a-463f-ba35-723f4a81e780</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Recent Payments</name>
+   <tag></tag>
+   <elementGuidId>4cc217d9-f7d7-496d-ae5b-c8e20fde5171</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.orange</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-billing-overview/div[2]/div/div/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b08cbf77-ec86-45b2-bb4b-955736a54797</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>orange</value>
+      <webElementGuid>f19b5438-17f8-4f76-8782-30daf6cd036d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Recent Payments</value>
+      <webElementGuid>b3acb03e-ac46-4666-9274-50613a7fd4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-billing-overview[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width p-24 br-4 customheightbox&quot;]/div[@class=&quot;billingoverviewcontent&quot;]/div[@class=&quot;billingbox&quot;]/div[@class=&quot;billinglist&quot;]/div[@class=&quot;locationlist-block&quot;]/div[@class=&quot;settingnumtitleblock&quot;]/div[@class=&quot;orange&quot;]</value>
+      <webElementGuid>0b08ee21-5514-489e-9745-7940939765c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-billing-overview/div[2]/div/div/div/div[2]/div/div</value>
+      <webElementGuid>063d23da-4dfd-4cbf-9093-8544c18d8623</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Promo Code'])[1]/following::div[4]</value>
+      <webElementGuid>49ddab97-5b85-4200-8b6a-af67d34d68f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Card'])[1]/following::div[6]</value>
+      <webElementGuid>f277abc7-efa9-4501-a547-905b6529f184</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Historical Payments'])[1]/preceding::div[1]</value>
+      <webElementGuid>07481dd0-5d3f-4eab-812c-69c194e51ff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Payment - Dec 27, 2023 - Demo***1111'])[1]/preceding::div[2]</value>
+      <webElementGuid>2fd6093e-0a71-4ee3-8718-f25a841a302f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Recent Payments']/parent::*</value>
+      <webElementGuid>bda428ab-0a69-4fba-bbf9-02f734576f92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div</value>
+      <webElementGuid>db022e84-970c-46fb-b8dc-1bb3a4665292</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Recent Payments' or . = 'Recent Payments')]</value>
+      <webElementGuid>8859e42a-f9d5-4132-9ec9-90e40c95454c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

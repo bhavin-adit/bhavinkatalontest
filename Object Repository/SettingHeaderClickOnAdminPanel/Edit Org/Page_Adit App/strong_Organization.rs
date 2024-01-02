@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_Organization</name>
+   <tag></tag>
+   <elementGuidId>dc67c561-e187-4f82-90c5-64a81d6c885a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='editorganization clearfix']/div/form/div/div[2]/div/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>8443c852-10a9-4202-8d41-5a66d17fa480</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c633-17</value>
+      <webElementGuid>e78251da-0f17-456d-91ec-7bce290ec586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Organization</value>
+      <webElementGuid>db58e30d-2990-46e7-bb9e-ba18e0028cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;editorganization clearfix&quot;)/div[@class=&quot;fuse-card auto-width p-24 br-4 customheightbox ng-tns-c633-17&quot;]/form[@class=&quot;ng-tns-c633-17 ng-untouched ng-pristine ng-valid&quot;]/div[@class=&quot;editorgrow ng-tns-c633-17&quot;]/div[@class=&quot;editorgbox btmborder ng-tns-c633-17&quot;]/div[@class=&quot;editorganizationcol1 ng-tns-c633-17&quot;]/strong[@class=&quot;ng-tns-c633-17&quot;]</value>
+      <webElementGuid>d965e7e1-cee3-48eb-b3b9-4e8b9228afee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='editorganization clearfix']/div/form/div/div[2]/div/strong</value>
+      <webElementGuid>925418ea-ec1a-4955-9a39-f9f3dc38223d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='We recommend a photo larger than 300px by 300px in .jpg or .png formats.'])[1]/following::strong[1]</value>
+      <webElementGuid>8863421a-2437-4b97-8410-7aae99b38d8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Organization Information'])[1]/following::strong[1]</value>
+      <webElementGuid>f0124c2d-6724-4148-a466-a95da72d1d6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Name'])[1]/preceding::strong[1]</value>
+      <webElementGuid>c0cc3dac-2d9a-4cc1-a37b-61e8a30ca5be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Phone Number'])[1]/preceding::strong[1]</value>
+      <webElementGuid>53dfdf2d-713d-4b95-a55c-e3ad1d443871</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/strong</value>
+      <webElementGuid>41efb803-4388-4b03-8911-1a2bc1e1c6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'Organization' or . = 'Organization')]</value>
+      <webElementGuid>1f2067c9-2a06-445d-a4a2-59d85251bd5e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

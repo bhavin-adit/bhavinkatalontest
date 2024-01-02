@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Username</name>
+   <tag></tag>
+   <elementGuidId>ca869678-7db8-4a85-a6db-09ab031d00ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c192-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div/mat-form-field/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>321f8f29-68cb-4383-925e-ab1ee6c8c18d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c192-2</value>
+      <webElementGuid>6dd3ddf3-5e25-4943-b9c3-3ac6d0931e3d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Username *</value>
+      <webElementGuid>d0ff7382-18ef-4403-bc6b-8343ce216cf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselExampleIndicators&quot;)/div[@class=&quot;carousel-inner ng-tns-c574-1&quot;]/div[@class=&quot;carousel-item active ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomblock ng-tns-c574-1&quot;]/div[@class=&quot;signupcustombox clearfix ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomcol signupcustomcol2 ng-tns-c574-1&quot;]/div[@class=&quot;loginblock br-4 ng-tns-c574-1&quot;]/form[@class=&quot;ng-tns-c574-1 ng-untouched ng-pristine ng-invalid&quot;]/div[@class=&quot;loginfield ng-tns-c574-1&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c574-1 ng-tns-c192-2 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-invalid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c192-2&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c192-2&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c192-2&quot;]</value>
+      <webElementGuid>53dd8667-4f83-4946-a805-06fcb459dffb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div/mat-form-field/div/div/div</value>
+      <webElementGuid>fa30c2de-3354-44cc-9bd5-63a47aba314b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login To Your Account'])[1]/following::div[6]</value>
+      <webElementGuid>66ae7484-c096-4683-8780-287ea5560932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/following::div[29]</value>
+      <webElementGuid>d3f84820-8103-49bb-b140-64abd4686749</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/preceding::div[5]</value>
+      <webElementGuid>782bdda2-b5f5-4569-a0f4-99b7333eb058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div</value>
+      <webElementGuid>4bdab604-0976-4a8e-893a-29eba4b662d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Username *' or . = 'Username *')]</value>
+      <webElementGuid>9427e75b-9157-43dd-ae17-fdf3b61e6347</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Admin Panel</name>
+   <tag></tag>
+   <elementGuidId>82416453-9170-4dab-9de7-ab90f2230d9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.mat-button-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-header-setting-admin[@id='header']/div/div[2]/div[2]/nav/ul/li/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2b976163-a7fd-4ac2-b37b-989ced531368</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-button-wrapper</value>
+      <webElementGuid>202d94c0-1257-4270-bc17-705b3b6862c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Admin Panel</value>
+      <webElementGuid>c8156edb-de9d-4608-90a7-826f58747b1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;headerinner d-flex align-items-center flex-wrap&quot;]/div[@class=&quot;headrhtmainbox d-flex align-items-center&quot;]/div[@class=&quot;headappmenu&quot;]/nav[@class=&quot;priority-nav&quot;]/ul[1]/li[1]/button[@class=&quot;mat-focus-indicator mat-button mat-button-base ng-star-inserted&quot;]/span[@class=&quot;mat-button-wrapper&quot;]</value>
+      <webElementGuid>5d12c635-03c2-4d25-a9c8-18a8988f1173</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-header-setting-admin[@id='header']/div/div[2]/div[2]/nav/ul/li/button/span</value>
+      <webElementGuid>5ee539fd-9a29-4d00-a6b0-796b14d34243</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[1]/following::span[1]</value>
+      <webElementGuid>606318d3-3bca-48a0-adc5-37b6d5a095d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/following::span[2]</value>
+      <webElementGuid>c5c8eb82-3857-4913-87f0-e76d22743b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Numbers'])[1]/preceding::span[3]</value>
+      <webElementGuid>412d092d-d2e7-4841-8db9-f03b7906789e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locations'])[1]/preceding::span[6]</value>
+      <webElementGuid>98997106-f362-4db3-9540-0458b7bbdd81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Admin Panel']/parent::*</value>
+      <webElementGuid>866016d9-1611-4b04-b943-2cf92b889015</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>bb1350a9-46d8-48c1-bfcb-d409d2fbc4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Admin Panel' or . = 'Admin Panel')]</value>
+      <webElementGuid>da94ad2e-0b12-4890-a2af-c25d471300f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

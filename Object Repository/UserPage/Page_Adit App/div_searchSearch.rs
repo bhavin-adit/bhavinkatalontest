@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_searchSearch</name>
+   <tag></tag>
+   <elementGuidId>90c6397b-e46b-4673-9227-f64dea55a973</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mat-form-field-infix.ng-tns-c192-23</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[2]/div/div[2]/mat-form-field/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d1fb11fc-386a-4e14-98c7-7818667420ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-form-field-infix ng-tns-c192-23</value>
+      <webElementGuid>c9eab71a-b208-4a99-8446-cb11d147bc49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>searchSearch</value>
+      <webElementGuid>fa8a1a62-25ef-4e91-bde6-70bfbba3686d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-user-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width br-4 customheightbox&quot;]/div[@class=&quot;tab-section-block&quot;]/div[@class=&quot;right-section-block&quot;]/div[@class=&quot;search-block&quot;]/mat-form-field[@class=&quot;mat-form-field m-0 w200 customborpadd ng-tns-c192-23 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-has-label mat-form-field-hide-placeholder ng-untouched ng-pristine ng-valid ng-star-inserted&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c192-23&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c192-23&quot;]/div[@class=&quot;mat-form-field-infix ng-tns-c192-23&quot;]</value>
+      <webElementGuid>b763019d-1c03-46b1-ad6b-e3ec05893474</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[2]/div/div[2]/mat-form-field/div/div/div</value>
+      <webElementGuid>e7a92836-1b70-40e0-8743-6775af80dc69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to understand Adit role permissions'])[1]/following::div[4]</value>
+      <webElementGuid>0e9014a8-6ea0-485c-a9bf-70a3abc727d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All'])[1]/following::div[7]</value>
+      <webElementGuid>6e005b7a-cd0d-4df9-9e7a-36634d0f5e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Bulk User'])[1]/preceding::div[5]</value>
+      <webElementGuid>f155af77-f43c-4466-b604-2f4046bfb85b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//mat-form-field/div/div/div</value>
+      <webElementGuid>343824d7-4848-4f30-907f-e5c970c2144f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'searchSearch' or . = 'searchSearch')]</value>
+      <webElementGuid>3d00d75b-6f8b-4a7e-b62e-2a3a9d19d097</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

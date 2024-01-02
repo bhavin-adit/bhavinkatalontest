@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_visibility_off</name>
+   <tag></tag>
+   <elementGuidId>bf38a475-e338-4efd-b974-3c40901a3aff</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.material-icons-outlined.ng-tns-c574-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div/mat-form-field[2]/div/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6c8a6c34-10ef-4ca9-90b1-cdefe71dd404</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons-outlined ng-tns-c574-1</value>
+      <webElementGuid>00935b85-8543-4beb-a60e-8ab130534115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> visibility_off </value>
+      <webElementGuid>a9f63ea7-9d01-4ddf-9f98-582102dca5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselExampleIndicators&quot;)/div[@class=&quot;carousel-inner ng-tns-c574-1&quot;]/div[@class=&quot;carousel-item active ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomblock ng-tns-c574-1&quot;]/div[@class=&quot;signupcustombox clearfix ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomcol signupcustomcol2 ng-tns-c574-1&quot;]/div[@class=&quot;loginblock br-4 ng-tns-c574-1&quot;]/form[@class=&quot;ng-tns-c574-1 ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;loginfield ng-tns-c574-1&quot;]/mat-form-field[@class=&quot;mat-form-field ng-tns-c574-1 ng-tns-c192-3 mat-primary mat-form-field-type-mat-input mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label mat-form-field-hide-placeholder ng-star-inserted mat-form-field-should-float ng-dirty ng-valid ng-touched&quot;]/div[@class=&quot;mat-form-field-wrapper ng-tns-c192-3&quot;]/div[@class=&quot;mat-form-field-flex ng-tns-c192-3&quot;]/div[@class=&quot;mat-form-field-suffix ng-tns-c192-3 ng-star-inserted&quot;]/div[@class=&quot;icon-font-visibility ng-tns-c192-3&quot;]/span[@class=&quot;material-icons-outlined ng-tns-c574-1&quot;]</value>
+      <webElementGuid>53a2b347-ad3a-4ce4-9691-7b10ef86b7bb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div/mat-form-field[2]/div/div/div[2]/div/span</value>
+      <webElementGuid>2a3c16f6-17ba-4200-9434-aa8532e65034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[2]</value>
+      <webElementGuid>721a587f-bd43-4f01-bd35-8b252cce3916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::span[6]</value>
+      <webElementGuid>9f2cfbff-aabb-43f8-afed-7b1ddd7f8f52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/preceding::span[10]</value>
+      <webElementGuid>01309ddd-b95d-44f3-b4aa-7504351dabca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='visibility_off']/parent::*</value>
+      <webElementGuid>4d17941b-ace5-4743-b24f-0be24b4d72f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span</value>
+      <webElementGuid>0336439f-9447-4667-b552-4178894df915</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' visibility_off ' or . = ' visibility_off ')]</value>
+      <webElementGuid>b2c65839-e09b-45f4-a6e0-b28ad440407a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

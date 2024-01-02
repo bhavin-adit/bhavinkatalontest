@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>6d54cb68-dbbe-4c2e-b336-a8b937b97825</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.custombtnfont.mat-flat-button.mat-button-base.mat-accent.ng-tns-c574-1.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>81e51b5c-5162-4b09-aeda-0bdb184fca43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>0e04437f-01d7-4e16-8355-f5212441eae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator custombtnfont mat-flat-button mat-button-base mat-accent ng-tns-c574-1 ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>e609784c-1118-4e2e-8050-caa3f1a7d200</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>dbdbcba2-377a-4854-8b98-ebd9949f37ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselExampleIndicators&quot;)/div[@class=&quot;carousel-inner ng-tns-c574-1&quot;]/div[@class=&quot;carousel-item active ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomblock ng-tns-c574-1&quot;]/div[@class=&quot;signupcustombox clearfix ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomcol signupcustomcol2 ng-tns-c574-1&quot;]/div[@class=&quot;loginblock br-4 ng-tns-c574-1&quot;]/form[@class=&quot;ng-tns-c574-1 ng-dirty ng-touched ng-valid&quot;]/div[@class=&quot;loginbtn ng-tns-c574-1&quot;]/button[@class=&quot;mat-focus-indicator custombtnfont mat-flat-button mat-button-base mat-accent ng-tns-c574-1 ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>a28fa830-954d-4248-9c00-7fa97a69b58d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div[3]/button</value>
+      <webElementGuid>94f9a773-0b84-4e08-9f08-b6aa034d3bc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::button[1]</value>
+      <webElementGuid>a156d2f1-a406-4843-bf81-9e22aa8ed5cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>3a492cb2-5eea-4f8a-b8ee-e0f0ee686294</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Login' or . = ' Login')]</value>
+      <webElementGuid>d2f404aa-accc-4db5-a65c-92b9f865e278</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

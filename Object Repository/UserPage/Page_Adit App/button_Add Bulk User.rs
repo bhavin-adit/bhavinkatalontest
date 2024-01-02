@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add Bulk User</name>
+   <tag></tag>
+   <elementGuidId>5c67af9e-9f37-4d9c-bd9f-342846f40924</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.ng-tns-c639-24.mat-flat-button.mat-button-base.mat-accent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[2]/div/div[3]/app-user-create/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e6120a6d-da6a-46e5-85ba-a40b6e870d59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>e9cba4a6-2b7a-4bd4-a620-4f7ef764ba6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator ng-tns-c639-24 mat-flat-button mat-button-base mat-accent</value>
+      <webElementGuid>3bb6a02d-67c2-4793-9092-f59b2f12dd80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Bulk User</value>
+      <webElementGuid>a650d2b5-7138-4310-8e77-b27884ec92d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-user-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width br-4 customheightbox&quot;]/div[@class=&quot;tab-section-block&quot;]/div[@class=&quot;right-section-block&quot;]/div[@class=&quot;add-event-button mat-warn ng-star-inserted&quot;]/app-user-create[@class=&quot;ng-tns-c639-24 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator ng-tns-c639-24 mat-flat-button mat-button-base mat-accent&quot;]</value>
+      <webElementGuid>60146497-a3cd-498b-ac1c-323f28401163</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[2]/div/div[3]/app-user-create/button</value>
+      <webElementGuid>214a203b-0451-4105-9075-00806c4919b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[1]</value>
+      <webElementGuid>98c83281-ea9f-4a77-aa35-ed5cd7fe5864</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to understand Adit role permissions'])[1]/following::button[1]</value>
+      <webElementGuid>eee84da2-d9d0-41b2-91bc-1747c96f3264</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add User'])[1]/preceding::button[1]</value>
+      <webElementGuid>88d8069c-352a-4fcc-a39b-002b5231f329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-user-create/button</value>
+      <webElementGuid>4b05e020-364c-447e-a9c7-d88616e7df55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add Bulk User' or . = 'Add Bulk User')]</value>
+      <webElementGuid>2417c2ce-d09e-49d9-9f49-484037a42732</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

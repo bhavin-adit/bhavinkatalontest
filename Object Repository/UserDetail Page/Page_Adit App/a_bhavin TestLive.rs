@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_bhavin TestLive</name>
+   <tag></tag>
+   <elementGuidId>b372b2b2-192d-45e5-a08f-fc68501d2816</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.mat-tooltip-trigger.bluecolor.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[3]/div/div/table/tbody/tr[4]/td/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>63bfbada-197a-43cb-ac6a-01dec8cd166d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>e2e4376d-4711-4427-9482-95c057aca1e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger bluecolor cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>665aad1f-9fca-40a7-a1a5-8c798673b943</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>bhavin TestLive</value>
+      <webElementGuid>1995010b-cb56-4b3c-a7ba-a59027d76038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-user-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width br-4 customheightbox&quot;]/div[@class=&quot;p-24 pt-0&quot;]/div[@class=&quot;loactionlisttable ng-star-inserted&quot;]/div[@class=&quot;table-scroll-user-list ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table tbllstlocation&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell pt-4 pb-4 cdk-column-first_column ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tbllocationbox&quot;]/div[@class=&quot;tbllocationname mb-4&quot;]/a[@class=&quot;mat-tooltip-trigger bluecolor cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>d94366e1-f570-4faa-8d23-fc4ca0989c8b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[3]/div/div/table/tbody/tr[4]/td/div/div/div/a</value>
+      <webElementGuid>6ebc7f4a-a77d-4ad8-a472-c19be091ac03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'bhavin TestLive')]</value>
+      <webElementGuid>30ab9b0b-fa62-4aa5-9b19-8634f1f21021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BH'])[1]/following::a[1]</value>
+      <webElementGuid>2979daa1-62ce-44c3-b980-5e635345707f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[2]/preceding::a[1]</value>
+      <webElementGuid>06a059be-8829-4636-8b87-462c092a9008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bhavin@adit.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>b7faf0a2-cf96-4cb3-8354-f52eaad19054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='bhavin TestLive']/parent::*</value>
+      <webElementGuid>321aaa02-3a59-406a-894b-2d75ec3d1841</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[5]</value>
+      <webElementGuid>716fd86d-ad74-4b18-ae67-017c87ebbc50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td/div/div/div/a</value>
+      <webElementGuid>8d85a01c-b291-4539-a190-5982c41f92fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'bhavin TestLive' or . = 'bhavin TestLive')]</value>
+      <webElementGuid>24ce4082-f06b-4250-a086-ef51a0059681</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

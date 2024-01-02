@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes</name>
+   <tag></tag>
+   <elementGuidId>ea640fcb-7731-4a53-b01e-14b43a6d5a0e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainorganization clearfix']/div/div/div[4]/div/div/div/div/div/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b9fef279-2ffc-49ed-8378-4e4c3c9d570c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-tns-c633-17</value>
+      <webElementGuid>a03562e2-7dea-4e2a-8a72-7bbb2ed36b60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>9cffbc60-61ae-4ec1-98d0-a10e6626785f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainorganization clearfix&quot;)/div[@class=&quot;fuse-card auto-width p-24 br-4 customheightbox ng-tns-c633-17&quot;]/div[@class=&quot;ng-tns-c633-17 ng-star-inserted&quot;]/div[@class=&quot;ng-tns-c633-17 ng-star-inserted&quot;]/div[@class=&quot;restricipaddmain ng-tns-c633-17&quot;]/div[@class=&quot;restricipadd ng-tns-c633-17&quot;]/div[@class=&quot;restricip ng-tns-c633-17&quot;]/div[@class=&quot;rightdata ng-tns-c633-17&quot;]/div[@class=&quot;iptoggle ng-tns-c633-17&quot;]/span[@class=&quot;ng-tns-c633-17&quot;]</value>
+      <webElementGuid>b705034c-81ec-40e0-b52f-98f1c817675c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainorganization clearfix']/div/div/div[4]/div/div/div/div/div/span[2]</value>
+      <webElementGuid>abbd5282-1bb6-413a-855a-6027fd525f2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[2]/following::span[8]</value>
+      <webElementGuid>e8b12615-d95e-4ef8-a5b8-90ef9ed8c8cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restrict IP Access:'])[1]/following::span[9]</value>
+      <webElementGuid>26694067-cfe0-43bb-87fc-4630d0c46285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IP Address'])[1]/preceding::span[1]</value>
+      <webElementGuid>b1bac5a8-215e-42af-8586-a771bb32946e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Added By'])[1]/preceding::span[1]</value>
+      <webElementGuid>764d3217-9676-4504-99fc-955e27e2d21b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/span[2]</value>
+      <webElementGuid>391ebad0-5185-42a8-90e0-4847152659dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>b478c5f8-7488-49e5-9f88-de3725ca8aea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

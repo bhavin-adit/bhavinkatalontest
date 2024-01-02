@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SettingsAdmin PanelNumbersLocationsIntegrationsMy Profile</name>
+   <tag></tag>
+   <elementGuidId>1464c17b-c744-4800-8257-4f3bc4b4d4de</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.headrhtmainbox.d-flex.align-items-center</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//app-header-setting-admin[@id='header']/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5f96a074-c820-42ff-980a-fa3901c302f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>headrhtmainbox d-flex align-items-center</value>
+      <webElementGuid>6bc6147b-83b6-49c0-9d90-49b0968afd63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SettingsAdmin PanelNumbersLocationsIntegrationsMy Profile</value>
+      <webElementGuid>a3082a6b-38cb-4d55-843d-aab115d4ff9e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header&quot;)/div[@class=&quot;headerinner d-flex align-items-center flex-wrap&quot;]/div[@class=&quot;headrhtmainbox d-flex align-items-center&quot;]</value>
+      <webElementGuid>c5321e54-77f2-40d2-b326-44dea3986869</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//app-header-setting-admin[@id='header']/div/div[2]</value>
+      <webElementGuid>0a49c6c4-cafd-4c7f-85c0-a1e2814d0395</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='close'])[1]/following::div[1]</value>
+      <webElementGuid>f61df560-8a4d-4adc-8870-a0af546efeac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/following::div[21]</value>
+      <webElementGuid>1bba8760-5cd8-4f1f-b396-2b9034775d29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-header-setting-admin/div/div[2]</value>
+      <webElementGuid>017d6f2c-6bd6-490a-a072-df86c112d010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SettingsAdmin PanelNumbersLocationsIntegrationsMy Profile' or . = 'SettingsAdmin PanelNumbersLocationsIntegrationsMy Profile')]</value>
+      <webElementGuid>0bce7b69-7f67-4435-8dac-ee1f79e464fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Next Assign Apps</name>
+   <tag></tag>
+   <elementGuidId>b2922956-0f66-46ee-8c53-5d4f38e25bfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.rightbtn.mat-flat-button.mat-button-base.mat-accent.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-step-content-1-0']/form/div[2]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7cc65a64-7f4f-48f0-896f-45e5bc151a72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>849957bb-732d-4ee0-8646-982fb94fb21c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator rightbtn mat-flat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>125c210c-dd5e-488e-805e-c36722efbe51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next: Assign Apps</value>
+      <webElementGuid>46ce8081-dca0-4027-bc55-bddc418ab6f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-step-content-1-0&quot;)/form[@class=&quot;firststepper locationdetfiledrow ng-star-inserted ng-touched ng-dirty ng-valid&quot;]/div[@class=&quot;p-24 clearfix&quot;]/div[2]/button[@class=&quot;mat-focus-indicator rightbtn mat-flat-button mat-button-base mat-accent cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>a8f0cead-0216-47fa-8bbf-28d1238165af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-step-content-1-0']/form/div[2]/div[2]/button</value>
+      <webElementGuid>43d52378-7201-41f0-b137-6e9d0786d836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Role'])[1]/following::button[1]</value>
+      <webElementGuid>853e3cfd-4905-449a-afdf-fe7ac2efea02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[10]/following::button[1]</value>
+      <webElementGuid>28ea2fb1-5280-4136-831b-b769692171df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assign Apps'])[1]/preceding::button[1]</value>
+      <webElementGuid>b0cd4377-93f7-455e-8805-98035d2d3058</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button</value>
+      <webElementGuid>80423a08-af1c-4c85-a513-d19ffb2029d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Next: Assign Apps' or . = 'Next: Assign Apps')]</value>
+      <webElementGuid>640571a7-fef1-45f0-bb2e-999174a23c03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

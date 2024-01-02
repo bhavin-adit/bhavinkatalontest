@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_testdectod Test</name>
+   <tag></tag>
+   <elementGuidId>a2d55d2b-7326-4002-8499-05b8da8a2b08</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[3]/div/div/table/tbody/tr[17]/td/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ca14bb3e-655a-40d8-b175-8bf24ed9d586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>18aec832-4dc4-42fd-b047-bf9dd5da7344</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-tooltip-trigger bluecolor</value>
+      <webElementGuid>431de3e6-f11d-473e-9634-feb39bd3344b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>testdectod Test</value>
+      <webElementGuid>8ff73d3b-edbe-41ba-a66b-ad595431c483</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-user-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width br-4 customheightbox&quot;]/div[@class=&quot;p-24 pt-0&quot;]/div[@class=&quot;loactionlisttable ng-star-inserted&quot;]/div[@class=&quot;table-scroll-user-list ng-star-inserted&quot;]/table[@class=&quot;mat-table cdk-table tbllstlocation&quot;]/tbody[1]/tr[@class=&quot;mat-row cdk-row ng-star-inserted&quot;]/td[@class=&quot;mat-cell cdk-cell pt-4 pb-4 cdk-column-first_column ng-star-inserted&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;tbllocationbox&quot;]/div[@class=&quot;tbllocationname mb-4&quot;]/a[@class=&quot;mat-tooltip-trigger bluecolor&quot;]</value>
+      <webElementGuid>19332a93-5aac-41e9-8fea-80b8c496c9f4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[3]/div/div/table/tbody/tr[17]/td/div/div/div/a</value>
+      <webElementGuid>b2e11eff-e120-433a-92f8-55ec0ccdd66e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'testdectod Test')]</value>
+      <webElementGuid>3c20165d-687a-42d0-9513-a021855f22ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TE'])[1]/following::a[1]</value>
+      <webElementGuid>d9e84a35-b503-4dd6-a2e5-6b8b74dfe7ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Owner'])[8]/preceding::a[1]</value>
+      <webElementGuid>492610f1-e71f-4960-9a9c-b8d63afa61fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='bhavin@adit.com'])[9]/preceding::a[1]</value>
+      <webElementGuid>8e9ef4e4-c329-40d8-a31d-b8ca73619fcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='testdectod Test']/parent::*</value>
+      <webElementGuid>4cee3fcf-b03b-4603-9894-c3ef9608ee13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[18]</value>
+      <webElementGuid>6f01d157-5199-4dc1-9f1c-4da8738a84ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[17]/td/div/div/div/a</value>
+      <webElementGuid>a16467fa-1cd9-4d3b-aef7-bd891c0c36ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'testdectod Test' or . = 'testdectod Test')]</value>
+      <webElementGuid>403ad2d4-f43f-47ea-b16d-2857400d1fea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Add User</name>
+   <tag></tag>
+   <elementGuidId>6da73344-657a-4bab-ad8e-e5c46615cde0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[2]/div/div[3]/app-user-create/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>664f03f0-4f1f-40e4-b589-1a3981fc62d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>a7fb8445-355d-4d0d-9344-a8213fdf7562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator ng-tns-c639-24 mat-flat-button mat-button-base mat-accent</value>
+      <webElementGuid>99377a49-7742-46cc-9d2d-17f7691de60d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add User</value>
+      <webElementGuid>48f7ca30-6942-4ba5-928a-a6aaa302f522</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontainer&quot;)/div[@class=&quot;innermaincontainer&quot;]/div[@class=&quot;maincontainerblock clearfix&quot;]/div[@class=&quot;innermaincontent&quot;]/div[@class=&quot;ng-star-inserted&quot;]/app-setting-admin[@class=&quot;ng-star-inserted&quot;]/app-user-list[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;fuse-card auto-width br-4 customheightbox&quot;]/div[@class=&quot;tab-section-block&quot;]/div[@class=&quot;right-section-block&quot;]/div[@class=&quot;add-event-button mat-warn ng-star-inserted&quot;]/app-user-create[@class=&quot;ng-tns-c639-24 ng-star-inserted&quot;]/button[@class=&quot;mat-focus-indicator ng-tns-c639-24 mat-flat-button mat-button-base mat-accent&quot;]</value>
+      <webElementGuid>10baf9b7-b7e9-4f50-bfe5-6dc22674286f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='maincontainer']/div/div/div/div/app-setting-admin/app-user-list/div/div[2]/div/div[3]/app-user-create/button[2]</value>
+      <webElementGuid>6ae5b539-2ede-4a59-ae3f-25e8050e2dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Bulk User'])[1]/following::button[1]</value>
+      <webElementGuid>d8fe0ceb-246b-48be-a232-d48c32675fd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search'])[1]/following::button[2]</value>
+      <webElementGuid>49002930-1352-4751-8d3c-02a9393f081e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Live signup'])[1]/preceding::button[1]</value>
+      <webElementGuid>a25d1e58-8fae-4897-932a-b9028c016a80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-user-create/button[2]</value>
+      <webElementGuid>565470ed-f1c2-42fc-a4b8-41df9fbd0c38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add User' or . = 'Add User')]</value>
+      <webElementGuid>f3788d03-32e2-444a-82a7-e039785e87fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

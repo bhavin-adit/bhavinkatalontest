@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login to app &amp; Checking setting icon is present in header bar</description>
+   <name>01_Login Page</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1faeea0-d711-4227-a6ae-4d7a31452343</testCaseGuid>
+</TestCaseEntity>

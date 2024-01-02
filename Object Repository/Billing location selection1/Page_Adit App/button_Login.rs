@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Login</name>
+   <tag></tag>
+   <elementGuidId>d1576b45-4c6a-410d-9552-a2c49888e979</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.mat-focus-indicator.custombtnfont.mat-flat-button.mat-button-base.mat-accent.ng-tns-c574-1.ng-star-inserted.cdk-focused.cdk-mouse-focused</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div[3]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>53fd11d9-5603-4b4d-acaf-efc304be30e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>accent</value>
+      <webElementGuid>44bc4ad9-c3e1-49e4-b9cc-4aaa5d77c0b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-focus-indicator custombtnfont mat-flat-button mat-button-base mat-accent ng-tns-c574-1 ng-star-inserted cdk-focused cdk-mouse-focused</value>
+      <webElementGuid>c1fb07c2-7432-499d-895d-628338ab7a2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Login</value>
+      <webElementGuid>fb27e107-faae-4422-9dc4-1d9d469b6cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;carouselExampleIndicators&quot;)/div[@class=&quot;carousel-inner ng-tns-c574-1&quot;]/div[@class=&quot;carousel-item active ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomblock ng-tns-c574-1&quot;]/div[@class=&quot;signupcustombox clearfix ng-tns-c574-1&quot;]/div[@class=&quot;signupcustomcol signupcustomcol2 ng-tns-c574-1&quot;]/div[@class=&quot;loginblock br-4 ng-tns-c574-1&quot;]/form[@class=&quot;ng-tns-c574-1 ng-untouched ng-pristine ng-invalid ng-submitted&quot;]/div[@class=&quot;loginbtn ng-tns-c574-1&quot;]/button[@class=&quot;mat-focus-indicator custombtnfont mat-flat-button mat-button-base mat-accent ng-tns-c574-1 ng-star-inserted cdk-focused cdk-mouse-focused&quot;]</value>
+      <webElementGuid>c1897c9a-848b-4eef-80f5-9b375568163b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='carouselExampleIndicators']/div/div/div/div/div[2]/div/form/div[3]/button</value>
+      <webElementGuid>988d62b7-aa96-405c-8ffe-b5d5d27e6697</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password?'])[1]/following::button[1]</value>
+      <webElementGuid>906d79ab-386d-4b66-888b-66c1a3381c1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::button[1]</value>
+      <webElementGuid>8f1bf7ee-a8b7-4352-a068-8a3308c7f7b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>b60cc2b5-44b5-4211-9aa4-a45176ee2c17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Login' or . = ' Login')]</value>
+      <webElementGuid>b49c070b-e98f-4bf3-9532-2ebba5b2409f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
